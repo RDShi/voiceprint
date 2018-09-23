@@ -2,7 +2,7 @@ A simple model implemented with tensorflow for voiceprint
 
 wav-->fbank-->lstm-->embedding-->train and test/softmax(pretrain)-->train 
 
-dataset£ºhttps://datashare.is.ed.ac.uk/download/DS_10283_2651.zip
+dataset: https://datashare.is.ed.ac.uk/download/DS_10283_2651.zip
 
 Hyperparameters used in the model
 
