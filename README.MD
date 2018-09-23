@@ -2,7 +2,7 @@ A simple model implemented with tensorflow for voiceprint
 
 wav-->fbank-->lstm-->embedding-->train and test/softmax(pretrain)-->train 
 
-dataset£ºhttps://datashare.is.ed.ac.uk/download/DS_10283_2651.zip
+datasetÂ£Âºhttps://datashare.is.ed.ac.uk/download/DS_10283_2651.zip
 
 Hyperparameters used in the model
 
@@ -19,5 +19,4 @@ Hyperparameters used in the model
 - dropout prob: 0.5
 - batch size: 80
 - Each batch contains N = 8 speakers and M = 10 utterances per speaker.
-- 
-<strike>Each batch contains N = 64 speakers and M = 10 utterances per speaker.</strike>
+- <strike>Each batch contains N = 64 speakers and M = 10 utterances per speaker.</strike>
