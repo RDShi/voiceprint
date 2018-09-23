@@ -1,0 +1,2 @@
+ratio_s, ratio_t, lr, disp_step, evaluate_step
+1.0,1.0,0.0001,10,100
